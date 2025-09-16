@@ -1,0 +1,85 @@
+.education{
+     margin:50px 0px ;
+    margin-left: 120px;
+   
+}
+.education hr{
+    color: #135781;
+    width: 400px;
+    margin: 10px auto;
+}
+.education h2{
+    font-weight: bold;
+    color: #135781;
+}
+
+
+
+
+
+.education1{
+    height: 230px;
+    width: 200px;
+    box-sizing: content-box;
+     margin: 10px 0px;
+    padding:10px ;
+    margin-left: 150px;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+.education1:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    background-color: #138781;
+    color: white;
+    border: none;
+    transition: 1s;
+}
+.education1 .name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.education1 img{
+    margin-top: 0px ;
+     height: 100px;
+    width: 100%;
+
+}
+.box{
+    display: flex;
+   gap: 0px;
+}
+
+ @media only screen and (max-width: 768px) {
+    .education {
+        margin: 30px 10px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .education hr {
+        width: 80%;
+        margin: 10px auto;
+    }
+
+    .education h2 {
+        font-size: 1.5em;
+    }
+
+    .box {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .education1 {
+        width: 90%;
+        margin-left: 0;
+        padding: 15px;
+        height: auto;
+    }
+
+    .education1 img {
+        width: 100%;
+        height: auto;
+    }
+}
+
