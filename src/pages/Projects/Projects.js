@@ -64,7 +64,7 @@ const Projetcs = () => {
 
         <button
   className="ad-btn link-button"
-  onClick={() => window.open('https://github.com/amanrajput0099/React_Ai.git', '_blank')}
+  onClick={() => window.open('http://ai-app-pied-mu.vercel.app/', '_blank')}
 >
   View
 </button>
