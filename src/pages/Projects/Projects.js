@@ -17,7 +17,7 @@ const Projetcs = () => {
   <div className='col-md-4'>
     <div className='card rounded'>
       <div className='card-image'>
-        <span className='card-notify-badge'>Full stack</span>
+        <span className='card-notify-badge'>Mern stack</span>
     <img src='/E-png.png' alt='project1'/>
       </div>
       <div className=' card-image-overly m-auto mt-3'>
@@ -48,7 +48,7 @@ const Projetcs = () => {
   <div className='col-md-4'>
     <div className='card rounded'>
       <div className='card-image'>
-        <span className='card-notify-badge'>Mobile App</span>
+        <span className='card-notify-badge'>React</span>
     <img src='/react.png' alt='project2'/>
       </div>
       <div className=' card-image-overly m-auto mt-3'>
@@ -79,7 +79,7 @@ const Projetcs = () => {
   <div className='col-md-4'>
     <div className='card rounded'>
       <div className='card-image'>
-        <span className='card-notify-badge'>Full stack</span>
+        <span className='card-notify-badge'>Shifra</span>
     <img src='/assistant.png' alt='project1'/>
       </div>
       <div className=' card-image-overly m-auto mt-3'>

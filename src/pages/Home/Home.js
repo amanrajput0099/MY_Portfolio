@@ -17,7 +17,7 @@ function Home() {
                 options={{
                     strings:["FullStack Devloper !",
                         "Mern Stack Devloper !",
-                        "React-native Devloper !"],
+                        "React Devloper !"],
                     autoStart:true,
                     loop:true,
                 }}
